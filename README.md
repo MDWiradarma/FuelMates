@@ -4,5 +4,4 @@ Ini merupakan Tugas Sistem Informasi Geografis yaitu tentang pemetaan lokasi SPB
 Untuk Demonya bisa buka link http://fuelmate.online/
 
 username : admin
-
 password : admin123
