@@ -1,7 +1,7 @@
 # FuelMates
 Ini merupakan Tugas Sistem Informasi Geografis yaitu tentang pemetaan lokasi SPBU Terdekat menggunakan Google Maps API.
 
-Untuk Demonya bisa buka link http://fuelmate.online/
+Untuk Demonya bisa buka link https://fuelmate.online/
 
 username : admin
 
